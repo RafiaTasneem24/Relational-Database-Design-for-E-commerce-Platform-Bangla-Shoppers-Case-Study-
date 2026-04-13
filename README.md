@@ -1,16 +1,14 @@
 # Relational-Database-Design-for-E-commerce-Platform-Bangla-Shoppers-Case-Study-
 Designed and implemented a relational database for an e-commerce platform using ERD modeling and SQL, including complex queries, joins, constraints, and views to ensure data integrity and efficient data retrieval.
 
-# 🛒 Relational Database Design for E-commerce Platform (Bangla Shoppers)
-
-## 📌 Overview
+## Overview
 This project presents the design and implementation of a relational database system for **Bangla Shoppers**, an e-commerce platform specializing in beauty, skincare, and lifestyle products.  
 
 The project focuses on structuring and managing data efficiently using **Entity Relationship Diagrams (ERD)** and **SQL**, enabling scalable and reliable data operations.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Design a structured relational database for an e-commerce system  
 - Model real-world relationships between entities (customers, products, orders, etc.)  
 - Implement SQL queries for data retrieval and analysis  
@@ -18,7 +16,7 @@ The project focuses on structuring and managing data efficiently using **Entity 
 
 ---
 
-## 🧱 Database Design
+##  Database Design
 
 ### 🔹 Entity Relationship Diagram (ERD)
 - Designed ERD to represent relationships between:
@@ -33,14 +31,14 @@ The project focuses on structuring and managing data efficiently using **Entity 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **SQL**
 - **Relational Database Design**
 - **ERD Modeling**
 
 ---
 
-## 🧮 Key Features
+## Key Features
 
 ### 🔹 SQL Queries Implemented
 - Basic SELECT queries  
@@ -61,13 +59,13 @@ The project focuses on structuring and managing data efficiently using **Entity 
 
 ---
 
-## 👁️ Views
+##  Views
 - Created SQL views to simplify complex queries  
 - Example: `ProductBrandView` combining product and brand data  
 
 ---
 
-## 📊 Business Value
+##  Business Value
 - Efficient data organization for an e-commerce platform  
 - Supports:
   - Product management  
@@ -77,12 +75,12 @@ The project focuses on structuring and managing data efficiently using **Entity 
 
 ---
 
-## ⚠️ Note
+##  Note
 This is a **simulated database project** created using publicly available data. Sensitive business data such as customer transactions was not accessible and has been modeled for academic purposes.
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 - Integrate with a frontend application  
 - Add real-time data handling  
 - Implement advanced analytics/dashboard  
@@ -90,7 +88,7 @@ This is a **simulated database project** created using publicly available data. 
 
 ---
 
-## 👩‍💻 Author
+## Author
 **Rafia Tasneem**  
 Master’s Graduate – Data Science  
 
